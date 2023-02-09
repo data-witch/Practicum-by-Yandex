@@ -1,3 +1,1 @@
 # Practicum-by-Yandex
-
-Описание
