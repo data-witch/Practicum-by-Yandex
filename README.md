@@ -1,2 +1,1 @@
 # Practicum-by-Yandex
-Тест
