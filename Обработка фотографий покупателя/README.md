@@ -8,5 +8,7 @@
 # Инструменты и навыки
 - Python
 - Keras
+- Numpy
+- Matplotlib
   
 # Общий вывод
