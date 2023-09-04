@@ -7,7 +7,7 @@
 # Инструменты и навыки
 - Python
 - Numpy
-= Scikit-learn
+- Scikit-learn
 
 # Общий вывод
 
