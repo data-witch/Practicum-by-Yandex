@@ -7,6 +7,8 @@
 
 # Инструменты и навыки
 - Pandas
+- Numpy
+- Matplotlib
 - Scikit-learn
 - Бутстреп
 
